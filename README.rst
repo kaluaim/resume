@@ -1,4 +1,4 @@
 My Resume
 ---------
 
-`Direct link <https://cdn.rawgit.com/kaluaim/resume/master/Khalid_Alnuaim_Resume.pdf>`__
+`Direct link <https://cdn.jsdelivr.net/gh/kaluaim/resume/Khalid_Alnuaim_Resume.pdf>`__
